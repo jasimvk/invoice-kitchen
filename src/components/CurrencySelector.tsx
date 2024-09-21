@@ -38,6 +38,21 @@ const CURRENCIES = [
   { name: 'Brazilian Real', value: 'BRL' },
   { name: 'South African Rand', value: 'ZAR' },
   { name: 'Philippine Peso', value: 'PHP' },
+  { name: 'United Arab Emirates Dirham', value: 'AED' },
+  { name: 'Japanese Yen', value: 'JPY' },
+  { name: 'Kazakhstani Tenge', value: 'KZT' },
+  { name: 'Malaysian Ringgit', value: 'MYR' },
+  { name: 'Mexican Peso', value: 'MXN' },
+  { name: 'Norwegian Krone', value: 'NOK' },
+  { name: 'New Zealand Dollar', value: 'NZD' },
+  { name: 'Peso Convertible', value: 'PHP' },
+  { name: 'Peso Uruguayo', value: 'UYU' },
+  { name: 'Singapore Dollar', value: 'SGD' },
+  { name: 'Swedish Krona', value: 'SEK' },
+  { name: 'Swiss Franc', value: 'CHF' },
+  { name: 'Thai Baht', value: 'THB' },
+  { name: 'Turkish Lira', value: 'TRY' },
+  { name: 'UAE Dirham', value: 'AED' },
 ];
 
 export function CurrencySelector() {
